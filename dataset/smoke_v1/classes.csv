@@ -1,0 +1,25 @@
+class_id,super_class,class_name,family,notes
+0,communication,BPSK,single-carrier-linear-modulation,RRC-shaped BPSK
+1,communication,QPSK,single-carrier-linear-modulation,RRC-shaped QPSK
+2,communication,8PSK,single-carrier-linear-modulation,RRC-shaped 8PSK
+3,communication,16QAM,single-carrier-linear-modulation,RRC-shaped 16QAM
+4,communication,4FSK,continuous-phase-frequency-modulation,CPFSK with modulation index 0.5
+5,communication,8FSK,continuous-phase-frequency-modulation,CPFSK with modulation index 0.5
+6,communication,GMSK,continuous-phase-frequency-modulation,GMSK with BT 0.3
+7,communication,OFDM-BPSK,ofdm-communication,OFDM with BPSK data carriers
+8,communication,OFDM-QPSK,ofdm-communication,OFDM with QPSK data carriers
+9,communication,OFDM-16QAM,ofdm-communication,OFDM with 16QAM data carriers
+10,sensing,Rect,intra-pulse-sensing,rectangular pulse
+11,sensing,Barker,intra-pulse-sensing,Barker phase-coded pulse
+12,sensing,LFM,intra-pulse-sensing,linear frequency-modulated pulse
+13,sensing,Costas,intra-pulse-sensing,Costas frequency-hopping pulse
+14,sensing,Frank,intra-pulse-sensing,Frank polyphase-coded pulse
+15,sensing,P4,intra-pulse-sensing,P4 polyphase-coded pulse
+16,isac,LFM-BPSK,lfm-psk,LFM chirp with BPSK phase coding
+17,isac,LFM-QPSK,lfm-psk,LFM chirp with QPSK phase coding
+18,isac,LFM-8PSK,lfm-psk,LFM chirp with 8PSK phase coding
+19,isac,LFM-MSK,lfm-cpm,LFM chirp-carried MSK
+20,isac,LFM-GMSK,lfm-cpm,LFM chirp-carried GMSK
+21,isac,OFDM-LFM-BPSK,ofdm-lfm,comb-interleaved chirp-enhanced OFDM-BPSK
+22,isac,OFDM-LFM-QPSK,ofdm-lfm,comb-interleaved chirp-enhanced OFDM-QPSK
+23,isac,OFDM-LFM-16QAM,ofdm-lfm,comb-interleaved chirp-enhanced OFDM-16QAM

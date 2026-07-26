@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use CISR24, cite this dataset and its accompanying paper."
+title: "CISR24"
+type: dataset
+version: "1.1.1"
+abstract: "A 24-class complex-baseband benchmark for unified ISAC waveform recognition."
+authors:
+  - family-names: "QI"
+    given-names: "Maoqian"
+repository-code: "https://github.com/chaser1780/CISR24"
+url: "https://huggingface.co/datasets/okra123/CISR24"
+license: CC-BY-4.0
+keywords:
+  - integrated sensing and communication
+  - waveform recognition
+  - complex baseband
+  - I/Q
+  - synthetic dataset

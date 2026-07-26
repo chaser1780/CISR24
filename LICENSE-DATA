@@ -1,0 +1,36 @@
+CISR24 Dataset License
+
+Copyright (c) 2026 QI Maoqian
+
+The CISR24 dataset is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+SPDX-License-Identifier: CC-BY-4.0
+
+Licensed material includes the HDF5 payloads, manifests, class mappings,
+validation and audit outputs, metadata, and dataset examples distributed as
+part of CISR24. Source code, generators, loaders, and validation tools are
+licensed separately under the Apache License 2.0 in LICENSE-CODE.
+
+You may share and adapt the licensed material for any purpose, including
+commercial use, provided that you give appropriate credit, provide a link to
+the license, and indicate whether changes were made. You may not apply legal
+terms or technological measures that legally restrict others from doing
+anything the license permits.
+
+Recommended attribution:
+
+  CISR24, QI Maoqian, version 1.1.1, CC BY 4.0.
+
+After the public deposit is created, include the version DOI in the
+attribution. Citation of the dataset record is requested for scholarly use and
+does not replace the attribution requirements of the license.
+
+License deed:
+https://creativecommons.org/licenses/by/4.0/
+
+Full legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Unless otherwise separately undertaken by the licensor, the licensed material
+is provided as-is and without warranties, to the extent permitted by law.
