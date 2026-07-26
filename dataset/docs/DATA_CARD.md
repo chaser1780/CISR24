@@ -55,5 +55,5 @@ configuration, paper hash, source archive, checksums, and validation output in
 CISR24 is authored by QI Maoqian. Dataset artifacts are licensed under CC BY
 4.0 and source code is licensed under Apache License 2.0. Source code is hosted
 at <https://github.com/chaser1780/CISR24>, and the full release is hosted at
-<https://huggingface.co/datasets/okra123/CISR24>. The version DOI will be added
-after the final Hugging Face revision is frozen.
+<https://huggingface.co/datasets/okra123/CISR24>. The registered dataset version
+is [DOI 10.57967/hf/9724](https://doi.org/10.57967/hf/9724).

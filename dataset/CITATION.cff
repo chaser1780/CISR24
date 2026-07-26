@@ -9,6 +9,7 @@ authors:
     given-names: "Maoqian"
 repository-code: "https://github.com/chaser1780/CISR24"
 url: "https://huggingface.co/datasets/okra123/CISR24"
+doi: "10.57967/hf/9724"
 license: CC-BY-4.0
 keywords:
   - integrated sensing and communication

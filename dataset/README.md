@@ -95,5 +95,5 @@ single-file limits. The full data is hosted on
 follows [docs/SHORTCUT_AUDIT.md](docs/SHORTCUT_AUDIT.md).
 
 Dataset artifacts are licensed under CC BY 4.0 and source code is licensed
-under Apache License 2.0. CISR24 is authored by QI Maoqian. The version DOI will
-be added after the final Hugging Face revision is frozen.
+under Apache License 2.0. CISR24 is authored by QI Maoqian. The dataset version
+is registered as [DOI 10.57967/hf/9724](https://doi.org/10.57967/hf/9724).

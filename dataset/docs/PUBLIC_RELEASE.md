@@ -69,8 +69,9 @@ Do not upload until all of the following are complete:
 - select data/code licenses and confirm citation authors and DOI;
 - create a clean Git commit and record it in release metadata.
 
-After the final Hugging Face revision is frozen, generate its DOI and record it
-in `CITATION.cff` and the paper's dataset reference. Tag the matching GitHub
-source revision and link both records. The attached paper PDF is the source of
-truth for this alignment and is not modified by this release workflow. Do not
-cite only a mutable branch URL.
+The finalized Hugging Face revision is registered as
+[DOI 10.57967/hf/9724](https://doi.org/10.57967/hf/9724), and the matching source
+release is tagged as
+[v1.1.1](https://github.com/chaser1780/CISR24/releases/tag/v1.1.1). The attached
+paper PDF is the source of truth for this alignment and is not modified by this
+release workflow. Do not cite only a mutable branch URL.

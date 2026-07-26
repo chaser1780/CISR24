@@ -5,9 +5,9 @@ location. A mutable branch URL is not a substitute for a release tag or DOI.
 
 | Artifact | Canonical release content | Public location |
 | --- | --- | --- |
-| HDF5 payload | `hdf5/cisr24_{train,val,test}.h5` | [Hugging Face dataset](https://huggingface.co/datasets/okra123/CISR24) |
-| Manifests and seeds | `manifests/cisr24_*_manifest.csv[.gz]` | same dataset revision |
-| Generator source | `provenance/CISR24-source.tar.gz` | [GitHub source](https://github.com/chaser1780/CISR24) and data revision |
+| HDF5 payload | `hdf5/cisr24_{train,val,test}.h5` | [DOI 10.57967/hf/9724](https://doi.org/10.57967/hf/9724) |
+| Manifests and seeds | `manifests/cisr24_*_manifest.csv[.gz]` | same data DOI |
+| Generator source | `provenance/CISR24-source.tar.gz` | [GitHub v1.1.1](https://github.com/chaser1780/CISR24/releases/tag/v1.1.1) and data DOI |
 | Taxonomy and schema | `classes.csv`, `docs/SCHEMA.md` | GitHub tag and data revision |
 | Release configuration | `audit/release_meta.json` | same dataset revision |
 | Validation reports | `audit/*.json` | same dataset revision |
@@ -15,7 +15,7 @@ location. A mutable branch URL is not a substitute for a release tag or DOI.
 | Integrity index | `files.csv`, `SHA256SUMS` | same dataset revision |
 | Code license | `LICENSE-CODE` | GitHub tag and data revision |
 | Data license | `LICENSE-DATA` | GitHub tag and data revision |
-| Citation | `CITATION.cff` | GitHub tag and data DOI |
+| Citation | `CITATION.cff` | GitHub tag and [data DOI](https://doi.org/10.57967/hf/9724) |
 
 ## Determinism
 
