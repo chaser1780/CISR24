@@ -1,8 +1,8 @@
 # CISR24
 
 CISR24 is the controlled complex-baseband benchmark introduced in the paper
-"DDTFNet: A Dual-Domain I/Q-STFT Token-Fusion Transformer for Unified ISAC
-Waveform Recognition." It defines one closed-set task over 24 waveform classes:
+"CDTFNet: A Cross-Domain Token-Fusion Transformer for Waveform-Level
+Electromagnetic Awareness in Low-Altitude Intelligent Networks." It defines one closed-set task over 24 waveform classes:
 10 communication, 6 sensing, and 8 integrated sensing and communication (ISAC)
 classes.
 

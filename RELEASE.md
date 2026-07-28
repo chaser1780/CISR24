@@ -10,3 +10,7 @@
 
 Use the DOI for the dataset citation and the tagged GitHub release for the
 generation, validation, and loader source snapshot.
+
+Metadata correction (2026-07-28): the mutable `main` branch aligns the paper
+title and model name with the final CDTFNet manuscript. The dataset payload,
+DOI revision, and `v1.1.1` tag are unchanged.

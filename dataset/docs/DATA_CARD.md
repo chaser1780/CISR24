@@ -4,7 +4,7 @@
 
 CISR24 is a synthetic complex-baseband IQ benchmark for unified recognition of
 24 communication, sensing, and ISAC waveforms. It is intended to accompany the
-DDTFNet paper and uses one shared label space across all three superclasses.
+CDTFNet paper and uses one shared label space across all three superclasses.
 
 ## Composition
 

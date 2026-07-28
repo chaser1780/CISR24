@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-07-28 metadata correction
+
+- align the accompanying paper title and model name with the final manuscript:
+  `CDTFNet: A Cross-Domain Token-Fusion Transformer for Waveform-Level
+  Electromagnetic Awareness in Low-Altitude Intelligent Networks`;
+- record that this correction changes documentation only.
+
+No HDF5 payload, manifest, class definition, generator, audit result, license,
+or release version changed. DOI 10.57967/hf/9724 and GitHub tag `v1.1.1`
+remain immutable release snapshots; the mutable repository HEAD contains this
+metadata correction.
+
 ## 1.1.1
 
 - adopt the paper dataset name `CISR24` across public generation and storage;
